@@ -10,6 +10,7 @@ F3Net weights can be found at [Baidu](https://aistudio.baidu.com/datasetdetail/2
 DSAMNet, DMINet, MSACNet weights: [HERE](https://drive.google.com/drive/folders/1omjiY44rFSDU50-FvSxkv_jWQ9e1NawL?usp=sharing)
 
 Please cite our paper if you use this code in your work:
+
 @ARTICLE{10540196,
   author={Huang, Junqing and Yuan, Xiaochen and Lam, Chan-Tong and Huang, Guoheng},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
