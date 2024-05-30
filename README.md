@@ -9,15 +9,24 @@ F3Net weights can be found at [Baidu](https://aistudio.baidu.com/datasetdetail/2
 
 DSAMNet, DMINet, MSACNet weights: [HERE](https://drive.google.com/drive/folders/1omjiY44rFSDU50-FvSxkv_jWQ9e1NawL?usp=sharing)
 
-Please cite our paper if you use this code in your work:
+Please cite our paper if you use this code in your work[link](https://ieeexplore.ieee.org/document/10540196):
 
 @ARTICLE{10540196,
+
   author={Huang, Junqing and Yuan, Xiaochen and Lam, Chan-Tong and Huang, Guoheng},
+  
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  
   title={F3Net: Feature Filtering Fusing Network for Change Detection of Remote Sensing Images}, 
+  
   year={2024},
+  
   volume={},
+  
   number={},
+  
   pages={1-15},
+  
   keywords={Feature extraction;Remote sensing;Noise;Deep learning;Task analysis;Filtering;Transformers;Change detection;deep learning;noise information;multiple receptive fields},
+  
   doi={10.1109/JSTARS.2024.3405971}}
