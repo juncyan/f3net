@@ -14,13 +14,14 @@ Please cite our paper if you use this code in your work [link](https://ieeexplor
 
 ```
 @ARTICLE{10540196,
-  author={Huang, Junqing and Yuan, Xiaochen and Lam, Chan-Tong and Huang, Guoheng}, 
-  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},  
-  title={F3Net: Feature Filtering Fusing Network for Change Detection of Remote Sensing Images},  
+  author={Huang, Junqing and Yuan, Xiaochen and Lam, Chan-Tong and Huang, Guoheng},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={F3Net: Feature Filtering Fusing Network for Change Detection of Remote Sensing Images}, 
   year={2024},
-  volume={},
+  volume={17},
   number={},
-  pages={1-15},
-  keywords={Feature extraction;Remote sensing;Noise;Deep learning;Task analysis;Filtering;Transformers;Change detection;deep learning;noise information;multiple receptive fields},
+  pages={10621-10635},
+  keywords={Feature extraction;Remote sensing;Noise;Deep learning;Task analysis;Filtering;Transformers;Change detection;deep learning;multiple receptive fields;noise information},
   doi={10.1109/JSTARS.2024.3405971}}
+
 ```
