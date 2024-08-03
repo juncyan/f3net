@@ -9,8 +9,6 @@ F3Net program: [AI Studio](https://aistudio.baidu.com/projectdetail/7967708?sUid
 
 F3Net weights can be found at [Baidu](https://aistudio.baidu.com/datasetdetail/250593) or [GoogleCloud](https://drive.google.com/file/d/1YbskRCxcS6AhDsuiIM38WYYiiB5o-rfu/view?usp=sharing), and the complete code will be released after the paper is accepted.
 
-DSAMNet, DMINet, MSACNet weights: [HERE](https://drive.google.com/drive/folders/1omjiY44rFSDU50-FvSxkv_jWQ9e1NawL?usp=sharing)
-
 
 Please cite our paper if you use this code in your work [link](https://ieeexplore.ieee.org/document/10540196):
 
