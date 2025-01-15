@@ -7,7 +7,7 @@ import random
 import os
 
 # 基础功能
-from dataset.CDReader import CDReader, TestReader
+from dataset.CDReader import CDReader
 from work.train import train
 
 # 模型导入
@@ -57,7 +57,7 @@ if __name__ == "__main__":
 
     eval_data = CDReader(path_root = dataset_path, mode="val", en_edge=False)
     train_data = CDReader(path_root = dataset_path, mode="train", en_edge=False)
-    test_data = TestReader(path_root=dataset_path, mode="test", en_edge=False)
+    test_data = CDReader(path_root=dataset_path, mode="test", en_edge=False)
 
     eval_data = DataLoader(dataset=eval_data, batch_size=args.batch_size, num_workers=16,
                                  shuffle=False, drop_last=True)
